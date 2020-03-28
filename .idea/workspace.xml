@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3018dfb3-9f04-4b1b-890f-4d0072212692" name="Default Changelist" comment="." />
+    <list default="true" id="3018dfb3-9f04-4b1b-890f-4d0072212692" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585391603728</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=".">
+      <created>1585391866664</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585391866664</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -61,18 +70,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="188" y="41" width="894" height="823" key="CommitChangelistDialog2" timestamp="1585391645209">
+    <state x="188" y="41" width="894" height="823" key="CommitChangelistDialog2" timestamp="1585391865700">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="188" y="41" width="894" height="823" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585391645209" />
+    <state x="188" y="41" width="894" height="823" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585391865700" />
     <state x="499" y="131" key="FileChooserDialogImpl" timestamp="1585390989659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="499" y="131" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585390989659" />
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1585391274460">
+    <state x="261" y="101" key="Vcs.Push.Dialog.v2" timestamp="1585391872365">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585391274460" />
+    <state x="261" y="101" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585391872365" />
+    <state x="341" y="193" key="run.anything.popup" timestamp="1585391940284">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="341" y="193" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585391940284" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
